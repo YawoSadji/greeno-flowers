@@ -1,7 +1,7 @@
 {
   "name": "greeno-flowers",
   "version": "1.0.0",
-  "description": "",
+  "description": "An Node/Express Web Application serving up a static html landing page",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
